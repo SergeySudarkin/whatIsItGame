@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Угадай что</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap"
+        rel="stylesheet">
+    <link href="style.css" rel="stylesheet">
+</head>
+<body>
+    <main>
+        <section class="game">
+            <div class="container">
+                <div class="game__wrapper">
+                    <h1 class="game__title">Игра «Угадай что»</h1>
+
+                    <div class="game__categories">
+                        <span class="game__categories-title">Выберите категорию:</span>
+                        <select class="game__select" name="categories" id="categoriesId" aria-categories>
+                            <option value="category" selected disabled>Категория</option>
+                            <hr>
+                            <option value="companies">Фирмы</option>
+                        </select>
+                    </div>
+
+                    <div class="game__choice" aria-choice>
+                        <h3 class="game__choice-title">Выберите свою карточку:</h3>
+                        <div class="game__choice-card" aria-choice-card></div>
+                        <button class="game__choice-btn" aria-reset>Сбросить</button>
+                        <button class="game__choice-btn" aria-start>Начать</button>
+                        <button class="game__choice-btn" aria-reset-game>Сбросить игру</button>
+                    </div>
+
+                    <div class="game__cards" aria-cards></div>
+                </div>
+            </div>
+        </section>
+    </main>
+    <script type="module" src="./script.js"></script>
+</body>
+</html>

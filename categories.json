@@ -1,0 +1,249 @@
+{
+    "companies": [
+        {
+            "id": 1,
+            "title": "xbox",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Xbox_one_logo.svg/2048px-Xbox_one_logo.svg.png"
+        },
+        {
+            "id": 2,
+            "title": "lukoil",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/LUK_OIL_Logo.svg/1200px-LUK_OIL_Logo.svg.png"
+        },
+        {
+            "id": 3,
+            "title": "iphone",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg"
+        },
+        {
+            "id": 4,
+            "title": "colgate",
+            "image": "https://cdn.worldvectorlogo.com/logos/colgate-logo-1.svg"
+        },
+        {
+            "id": 5,
+            "title": "mercedes-benz",
+            "image": "https://grizly.club/uploads/posts/2022-12/1670821430_grizly-club-p-logotip-mersedes-png-3.png"
+        },
+        {
+            "id": 6,
+            "title": "ikea",
+            "image": "https://static.tildacdn.com/tild3764-3135-4664-b561-393533383361/new_logo_ikea.jpg"
+        },
+        {
+            "id": 7,
+            "title": "puma",
+            "image": "https://upload.wikimedia.org/wikipedia/ru/b/b4/Puma_logo.svg"
+        },
+        {
+            "id": 8,
+            "title": "tesla",
+            "image": "https://images.seeklogo.com/logo-png/32/2/tesla-logo-png_seeklogo-329764.png"
+        },
+        {
+            "id": 9,
+            "title": "telegram",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png"
+        },
+        {
+            "id": 10,
+            "title": "coca-cola",
+            "image": "https://pngicon.ru/file/uploads/cocacola.png"
+        },
+        {
+            "id": 11,
+            "title": "mcdonald",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/McDonald%27s_logo.svg/1280px-McDonald%27s_logo.svg.png"
+        },
+        {
+            "id": 12,
+            "title": "vk",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/VK_Compact_Logo_%282021-present%29.svg/2048px-VK_Compact_Logo_%282021-present%29.svg.png"
+        },
+        {
+            "id": 13,
+            "title": "pepsi",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Pepsi_2023.svg/2048px-Pepsi_2023.svg.png"
+        },
+        {
+            "id": 14,
+            "title": "bmw",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/4/44/BMW.svg"
+        },
+        {
+            "id": 15,
+            "title": "ferrari",
+            "image": "https://upload.wikimedia.org/wikipedia/ru/thumb/d/d1/Ferrari-Logo.svg/1200px-Ferrari-Logo.svg.png"
+        },
+        {
+            "id": 16,
+            "title": "hp",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/HP_logo_2012.svg/640px-HP_logo_2012.svg.png"
+        },
+        {
+            "id": 17,
+            "title": "mastercard",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Mastercard-logo.svg"
+        },
+        {
+            "id": 18,
+            "title": "microsoft",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Microsoft_logo_-_2012_%28vertical%29.svg/1910px-Microsoft_logo_-_2012_%28vertical%29.svg.png"
+        },
+        {
+            "id": 19,
+            "title": "wikipedia",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Wikipedia-logo-v2-ru.svg/800px-Wikipedia-logo-v2-ru.svg.png"
+        },
+        {
+            "id": 20,
+            "title": "samsung",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Samsung_Logo.svg/2560px-Samsung_Logo.svg.png"
+        },
+        {
+            "id": 21,
+            "title": "dell",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Dell_Logo.svg/2048px-Dell_Logo.svg.png"
+        },
+        {
+            "id": 22,
+            "title": "youtube",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png"
+        },
+        {
+            "id": 23,
+            "title": "volkswagen",
+            "image": "https://free-png.ru/wp-content/uploads/2021/07/free-png.ru-8-370x370.png"
+        },
+        {
+            "id": 24,
+            "title": "sony",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/6/63/Sony_Pictures_Television_logo.svg"
+        },
+        {
+            "id": 25,
+            "title": "mazda",
+            "image": "https://upload.wikimedia.org/wikipedia/ru/thumb/8/8d/Mazda_2018.svg/1200px-Mazda_2018.svg.png"
+        },
+        {
+            "id": 26,
+            "title": "nestle",
+            "image": "https://cdn.freebiesupply.com/logos/large/2x/nestle-logo-png-transparent.png"
+        },
+        {
+            "id": 27,
+            "title": "national-geographic",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National-Geographic-Logo.svg/2560px-National-Geographic-Logo.svg.png"
+        },
+        {
+            "id": 28,
+            "title": "gazprom",
+            "image": "https://upload.wikimedia.org/wikipedia/ru/thumb/2/2d/Gazprom-Logo-rus.svg/2560px-Gazprom-Logo-rus.svg.png"
+        },
+        {
+            "id": 29,
+            "title": "ford",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Ford_logo_flat.svg"
+        },
+        {
+            "id": 30,
+            "title": "kfc",
+            "image": "https://upload.wikimedia.org/wikipedia/sco/thumb/b/bf/KFC_logo.svg/1200px-KFC_logo.svg.png"
+        },
+        {
+            "id": 31,
+            "title": "toyota",
+            "image": "https://auto-level90.ru/wp-content/uploads/2018/02/toy.png"
+        },
+        {
+            "id": 32,
+            "title": "dodo",
+            "image": "https://dodobrands.io/_astro/logo-dodo-outlined.CmkRBcvf_k8C1t.svg"
+        },
+        {
+            "id": 33,
+            "title": "lamoda",
+            "image": "https://a.lmcdn.ru/files/cms/tilda/698445/images/tild3164-3339-4738-b365-653931626365__card.png"
+        },
+        {
+            "id": 34,
+            "title": "google",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_2015_logo.svg/640px-Google_2015_logo.svg.png"
+        },
+        {
+            "id": 35,
+            "title": "snickers",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Snickers_logo_%282000-2005%29.svg/2560px-Snickers_logo_%282000-2005%29.svg.png"
+        },
+        {
+            "id": 36,
+            "title": "bounty",
+            "image": "https://upload.wikimedia.org/wikipedia/de/thumb/a/a0/Bounty-Logo.svg/1200px-Bounty-Logo.svg.png"
+        },
+        {
+            "id": 37,
+            "title": "oreo",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Oreo_O%27s_logo.png"
+        },
+        {
+            "id": 38,
+            "title": "acer",
+            "image": "https://www.cdnlogo.com/logos/a/99/acer-2011.svg"
+        },
+        {
+            "id": 39,
+            "title": "bentley",
+            "image": "https://cdn.worldvectorlogo.com/logos/bentley-2.svg"
+        },
+        {
+            "id": 40,
+            "title": "asus",
+            "image": "https://images.icon-icons.com/3911/PNG/512/asus_logo_icon_247542.png"
+        },
+        {
+            "id": 41,
+            "title": "nike",
+            "image": "https://cdn.freebiesupply.com/logos/large/2x/nike-4-logo-svg-vector.svg"
+        },
+        {
+            "id": 42,
+            "title": "honda",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/3/38/Honda.svg"
+        },
+        {
+            "id": 43,
+            "title": "lays",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Lay%27s_logo_2019.svg/1200px-Lay%27s_logo_2019.svg.png"
+        },
+        {
+            "id": 44,
+            "title": "adidas",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/2/20/Adidas_Logo.svg"
+        },
+        {
+            "id": 45,
+            "title": "chrome",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Google_Chrome_icon_%28February_2022%29.svg/768px-Google_Chrome_icon_%28February_2022%29.svg.png"
+        },
+        {
+            "id": 46,
+            "title": "burger-king",
+            "image": "https://img.icons8.com/?size=192&id=LclNmAt2AKGh&format=png"
+        },
+        {
+            "id": 47,
+            "title": "lego",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/LEGO_logo.svg/1024px-LEGO_logo.svg.png"
+        },
+        {
+            "id": 48,
+            "title": "audi",
+            "image": "https://www.cdnlogo.com/logos/a/59/audi.svg"
+        },
+        {
+            "id": 49,
+            "title": "visa",
+            "image": "https://cdn-icons-png.freepik.com/256/14083/14083016.png"
+        }
+    ]
+}

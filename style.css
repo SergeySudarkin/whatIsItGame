@@ -1,0 +1,179 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-weight: unset;
+}
+
+body {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    background-color: #23272f;
+    color: #fff;
+}
+
+.container {
+    max-width: 1280px;
+    padding: 0 20px;
+    margin: 0 auto;
+}
+
+.game {
+    margin: 50px 0;
+}
+
+.game__wrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: center;
+    gap: 50px;
+}
+
+.game__title {
+    font-size: 32px;
+    text-align: center;
+}
+
+.game__categories {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+    width: 100%;
+}
+
+.game__categories-title {
+    font-size: 20px;
+    white-space: nowrap;
+}
+
+.game__select {
+    font-size: 16px;
+    flex-basis: 30%;
+    height: 45px;
+    border-radius: 15px;
+    background-color: #343a46;
+    padding: 12px;
+    border: none;
+    outline: none;
+    color: #fff;
+}
+
+.game__choice {
+    display: none;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+    width: 100%;
+}
+
+.game__choice--active {
+    display: flex;
+}
+
+.game__choice-title {
+    font-size: 20px;
+    white-space: nowrap;
+}
+
+.game__choice-card {
+}
+
+.game__choice-btn {
+    display: none;
+    background-color: #16444f;
+    color: #57c4dc;
+    border-radius: 8px;
+    border: 1px solid transparent;
+    padding: 0.6em 1.2em;
+    font-size: 1em;
+    font-weight: 500;
+    font-family: inherit;
+    cursor: pointer;
+    transition: border-color 0.25s;
+}
+
+.game__choice-btn:hover {
+    border-color: #2f2f2f;
+}
+
+.game__choice-btn:focus,
+.game__choice-btn:focus-visible {
+    outline: 4px auto #2f2f2f;
+}
+
+.game__choice-btn--active {
+    display: block;
+}
+
+.game__cards {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+
+.game__cards--active {
+    border: 5px solid #343a46;
+    border-radius: 25px;
+    padding: 25px;
+}
+
+.game__card {
+    width: 150px;
+    height: 150px;
+    background-color: #343a46;
+    border-radius: 25px;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.game__card:hover {
+    opacity: 0.5;
+}
+
+.game__card-img {
+    width: 100px;
+    height: 100px;
+    object-fit: contain;
+}
+
+@media (max-width: 700px) {
+    .game__choice {
+        flex-wrap: wrap;
+        gap: 30px;
+    }
+
+    .game__choice-btn {
+        flex-basis: 40%;
+    }
+}
+
+@media (max-width: 460px) {
+    .game__choice-btn {
+        flex-basis: 70%;
+    }
+}
+
+@media (max-width: 420px) {
+    .game__categories {
+        flex-wrap: wrap;
+    }
+
+    .game__select {
+        flex-basis: 70%;
+    }
+}
